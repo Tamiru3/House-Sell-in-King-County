@@ -33,7 +33,9 @@ Results
 
 The heatmap figure below is showing the correlation between the price and all of the features in the dataframe. 
 It is indicated that sqft_living has the highest correaltion with price.
+
 ![Correlation between the price of homes and other features](https://user-images.githubusercontent.com/37712711/136503211-523892ef-e32d-44ba-aac5-32477b87defb.png).
+
 Among the many factors, Bathrooom happens to be multicolinear with other features.
 
 
