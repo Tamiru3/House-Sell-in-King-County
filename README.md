@@ -42,14 +42,12 @@ Among the many factors, Bathrooom happens to be multicolinear with other feature
 Conclusions
 
 Based on the above anlysis, the follwoing recommendaions are forwarded.
-1. Home buyers must consider the square feet of the living room as an important price indicator and budget accordingly.
-Sqfit_living is highly correlated with the price of houses. This can be further explained as for every unit of sqfit_living ,
-there is $206.8896 increase in the price of houses.
-2. Home buyers should also consider the different grades of homes. As the grades increase, the price also increase.
-3. 
-4.Older houses are not cheap. Therefore, home buyers, should consider,sometimes recently built homes are cheaper than older homes.
-
-5.Home byers should not rely on this model prediction if they tend buy house outside King County.
+1.Home buyers must consider the square feet of the living room as an important price indicator and budget accordingly. 
+   Sqfit_living is highly correlated with the price of houses. This can be further explained as for every unit of sqfit_living ,
+   there is $206.8896 increase in the price of houses.
+2.Home buyers should also consider the different grades of homes. As the grades increase, the price also increase.
+3.Older houses are not cheap. Therefore, home buyers, should consider,sometimes recently built homes are cheaper than older homes.  
+4.Home byers should not rely on this model prediction if they tend buy house outside King County.
 
 Next Steps
 
